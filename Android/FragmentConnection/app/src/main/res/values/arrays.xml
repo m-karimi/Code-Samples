@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="os_titles">
+        <item>@string/android_title</item>
+        <item>@string/windows_title</item>
+        <item>@string/linux_title</item>
+    </string-array>
+
+    <string-array name="os_description">
+        <item>@string/android_description</item>
+        <item>@string/windows_description</item>
+        <item>@string/linux_description</item>
+    </string-array>
+</resources>

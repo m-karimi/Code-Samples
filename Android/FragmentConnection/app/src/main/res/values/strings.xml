@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Fragment Demo</string>
+    <string name="android_title">Android</string>
+    <string name="windows_title">Windows</string>
+    <string name="linux_title">Linux</string>
+
+    <string name="android_description">Android is a mobile operating system (OS) based on the Linux kernel.</string>
+    <string name="windows_description">Microsoft Windows (or simply Windows) is a metafamily of graphical operating systems developed, marketed, and sold by Microsoft.</string>
+    <string name="linux_description">Linux is a Unix-like and mostly POSIX-compliant computer operating system.</string>
+</resources>
