@@ -1,8 +1,0 @@
-c:\users\mohammad\documents\visual studio 2013\Projects\RestWebService\IISHost\bin\IISHost.dll.config
-c:\users\mohammad\documents\visual studio 2013\Projects\RestWebService\IISHost\bin\IISHost.dll
-c:\users\mohammad\documents\visual studio 2013\Projects\RestWebService\IISHost\bin\IISHost.pdb
-c:\users\mohammad\documents\visual studio 2013\Projects\RestWebService\IISHost\bin\RestWebService.dll
-c:\users\mohammad\documents\visual studio 2013\Projects\RestWebService\IISHost\bin\RestWebService.pdb
-c:\users\mohammad\documents\visual studio 2013\Projects\RestWebService\IISHost\obj\Release\IISHost.csprojResolveAssemblyReference.cache
-c:\users\mohammad\documents\visual studio 2013\Projects\RestWebService\IISHost\obj\Release\IISHost.dll
-c:\users\mohammad\documents\visual studio 2013\Projects\RestWebService\IISHost\obj\Release\IISHost.pdb

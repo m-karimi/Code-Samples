@@ -1,7 +1,0 @@
-c:\users\mohammad\documents\visual studio 2013\Projects\RestWebService\SelfHost\bin\Debug\SelfHost.exe
-c:\users\mohammad\documents\visual studio 2013\Projects\RestWebService\SelfHost\bin\Debug\SelfHost.pdb
-c:\users\mohammad\documents\visual studio 2013\Projects\RestWebService\SelfHost\bin\Debug\RestWebService.dll
-c:\users\mohammad\documents\visual studio 2013\Projects\RestWebService\SelfHost\bin\Debug\RestWebService.pdb
-c:\users\mohammad\documents\visual studio 2013\Projects\RestWebService\SelfHost\obj\Debug\SelfHost.csprojResolveAssemblyReference.cache
-c:\users\mohammad\documents\visual studio 2013\Projects\RestWebService\SelfHost\obj\Debug\SelfHost.exe
-c:\users\mohammad\documents\visual studio 2013\Projects\RestWebService\SelfHost\obj\Debug\SelfHost.pdb

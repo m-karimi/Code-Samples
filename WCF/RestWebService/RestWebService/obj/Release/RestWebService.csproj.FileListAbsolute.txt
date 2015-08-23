@@ -1,6 +1,0 @@
-c:\users\mohammad\documents\visual studio 2013\Projects\RestWebService\RestWebService\bin\Release\RestWebService.dll.config
-c:\users\mohammad\documents\visual studio 2013\Projects\RestWebService\RestWebService\bin\Release\RestWebService.dll
-c:\users\mohammad\documents\visual studio 2013\Projects\RestWebService\RestWebService\bin\Release\RestWebService.pdb
-c:\users\mohammad\documents\visual studio 2013\Projects\RestWebService\RestWebService\obj\Release\RestWebService.dll
-c:\users\mohammad\documents\visual studio 2013\Projects\RestWebService\RestWebService\obj\Release\RestWebService.pdb
-c:\users\mohammad\documents\visual studio 2013\Projects\RestWebService\RestWebService\obj\Release\RestWebService.csprojResolveAssemblyReference.cache
