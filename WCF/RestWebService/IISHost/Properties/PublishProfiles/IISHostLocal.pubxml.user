@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>D:\Programming\IISHostLocal\Test</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/IISHost.dll">
+      <publishTime>08/19/2015 16:04:06</publishTime>
+    </File>
+    <File Include="bin/RestWebService.dll">
+      <publishTime>08/19/2015 16:04:05</publishTime>
+    </File>
+    <File Include="OperatingSystemServices.svc">
+      <publishTime>08/18/2015 18:03:55</publishTime>
+    </File>
+    <File Include="PrecompiledApp.config">
+      <publishTime>08/19/2015 16:04:06</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>08/19/2015 16:01:40</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
