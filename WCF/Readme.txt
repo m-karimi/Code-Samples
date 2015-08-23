@@ -1,1 +1,1 @@
-WCF Sample in http://barname-nevis.com
+WCF Samples in http://barname-nevis.com
